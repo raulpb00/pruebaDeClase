@@ -1,3 +1,14 @@
-private int clase1{
-  return 0;
-  }
+public void clase1
+{
+ 
+
+
+
+
+
+	public void metodo2() {
+	}
+
+
+
+}
